@@ -4,4 +4,4 @@
 
 Printable notes to review with a referee crew and teams.
 
-[Click here to downloadable the HR Notes](blob/main/hr-notes.pptx "Downloadable HR Notes").
+[Click here to download the HR Notes](./hr-notes.pptx "Downloadable HR Notes").
