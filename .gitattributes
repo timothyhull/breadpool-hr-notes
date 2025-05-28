@@ -1,0 +1,13 @@
+# Explicitly declare the correct end-of-line characters for certain text files/scripts
+# Set the default behavior for text files
+* text=auto
+
+# Set file-specific end-of-line characters
+# Linux uses Line Feed (LF)
+# Windows uses Carriage Return Line Feed (CRLF)
+Dockerfile      text    eol=lf
+*.bat           text    eol=crlf
+*.ps1           text    eol=crlf
+*.sh            text    eol=lf
+*.yaml          text    eol=lf
+*.yml           text    eol=lf
